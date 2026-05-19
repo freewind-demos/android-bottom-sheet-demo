@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "demos.android.bottom.sheet.demo.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "demos.android.bottom.sheet.demo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "demos.android.bottom.sheet.demo.app-mergeDebugResources-30:/layout/bottom_sheet_content.xml",
+        "source": "demos.android.bottom.sheet.demo.app-main-33:/layout/bottom_sheet_content.xml"
+    }
+]

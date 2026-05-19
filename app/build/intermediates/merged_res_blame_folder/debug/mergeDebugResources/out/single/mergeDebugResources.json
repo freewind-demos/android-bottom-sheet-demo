@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "demos.android.bottom.sheet.demo.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "demos.android.bottom.sheet.demo.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "demos.android.bottom.sheet.demo.app-debug-31:/layout_bottom_sheet_content.xml.flat",
+        "source": "demos.android.bottom.sheet.demo.app-main-33:/layout/bottom_sheet_content.xml"
+    }
+]

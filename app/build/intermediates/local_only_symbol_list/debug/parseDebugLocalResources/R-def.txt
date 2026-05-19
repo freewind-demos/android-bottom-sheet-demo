@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id option1
+id option2
+id option3
+id resultText
+id showModalBtn
+id showPersistentBtn
+layout activity_main
+layout bottom_sheet_content

@@ -1,4 +1,4 @@
-package demos
+package demos.android.bottom.sheet.demo
 
 import android.os.Bundle
 import android.widget.Button
